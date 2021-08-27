@@ -1,3 +1,5 @@
+<a href="https://github.com/chinotechtools/AWS-RDP"><img src="https://img.shields.io/badge/AWS-RDP-blue"></a>
+
 # Windows2019 AWS-RDP-US
 
 Create a free VPS with 2cpu-7gb Ram FREE with Github:
@@ -13,4 +15,7 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
 + IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows > main.yml AND EDIT NEW LINK TO YOUR REPO. Include ALL Prerequisite in Files FOLDER
-### ɴᴏ ɪʟʟᴇɢᴀʟ ᴀᴄᴛɪᴠɪᴛɪᴇs ᴀʟʟᴏᴡᴇᴅ
+#### ɴᴏ ɪʟʟᴇɢᴀʟ ᴀᴄᴛɪᴠɪᴛɪᴇs ᴀʟʟᴏᴡᴇᴅ
+
+### Watch Video Guide Here 
+<a href="https://chinotechtips.blogspot.com/2021/07/how-to-create-free-rdp-with-github.html"><img src="https://img.shields.io/badge/VIDEO-GUIDE-red"></a>
