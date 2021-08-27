@@ -11,3 +11,6 @@ Create a free VPS with 2cpu-7gb Ram FREE with Github:
 + Go to Action> AWS-RDP> Run workflow
 + Reload the page and press AWS-RDP> build
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
+
++ IF MY REPO GOT DELETED,ON YOUR GITHUB GO TO .github/workflows > main.yml AND EDIT NEW LINK TO YOUR REPO. ALL .BAT in Files FOLDER
+### ɴᴏ ɪʟʟᴇɢᴀʟ ᴀᴄᴛɪᴠɪᴛɪᴇs ᴀʟʟᴏᴡᴇᴅ
